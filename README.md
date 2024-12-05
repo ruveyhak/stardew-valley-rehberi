@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+# License  
+This project is shared without a specific license. All rights are reserved, and any unauthorized use, copying, modification, or distribution is strictly prohibited. For inquiries, please contact me.  
+
 # stardew_rehber
 
 stardew rehberim
